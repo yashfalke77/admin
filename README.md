@@ -1,3 +1,50 @@
+# Admin Panel
+
+<div id="top"></div>
+
+<br />
+<div align="center">
+  <p align="center">
+    <b>Admin Panel</b>
+    <br />
+    <!-- <a href="https://github.com/yashfalke77">View Demo</a> -->
+    <!-- · -->
+    <a href="https://github.com/yashfalke77/admin/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/yashfalke77/admin/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+## Project Images
+
+### all users page
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/all%20users%20page.png" alt="Logo" >
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/all%20users%20page%201.png" alt="Logo" >
+
+### users detail page
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/user%20detail.png" alt="Logo" >
+
+### posts by user
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/post%20by%20user.png" alt="Logo" >
+
+### albums by user
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/album%20by%20user.png" alt="Logo" >
+
+### all posts
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/all%20posts.png" alt="Logo" >
+
+### posts details
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/post%20details.png" alt="Logo" >
+
+### all albums
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/all%20albums.png" alt="Logo" >
+
+### albums detail page
+<img src="https://raw.githubusercontent.com/yashfalke77/admin/master/project%20images/album%20details%20page.png" alt="Logo" >
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
