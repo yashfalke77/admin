@@ -1,0 +1,70 @@
+@import "../../styles/variables";
+
+.sidebar {
+	flex: 1;
+	border-right: 2px solid rgb(230, 227, 227);
+	min-height: 100vh;
+	background-color: white;
+
+	.top {
+		height: 6rem;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		.logo {
+			font-size: 2rem;
+			font-weight: 600;
+			color: $color-primary;
+		}
+	}
+
+	hr {
+		height: 0;
+		border: 0.5px solid rgb(230, 227, 227);
+	}
+}
+
+.center {
+	padding-left: 1rem;
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		font-weight: 400;
+
+		.title {
+			font-size: 1rem;
+			font-weight: 600;
+			color: #999;
+			margin-top: 1.5rem;
+			margin-bottom: 1.5rem;
+		}
+
+		li {
+			display: flex;
+			align-items: center;
+			padding: 0.5rem;
+			cursor: pointer;
+			background-color: white;
+			transition: all 0.3s ease-in-out;
+
+			&:hover {
+				background-color: #ece8ff;
+			}
+
+			.icon {
+				font-size: 1.8rem;
+				color: #7451f8;
+			}
+
+			span {
+				font-size: 1.3rem;
+				font-weight: 600;
+				color: #888;
+				margin-left: 1rem;
+			}
+		}
+	}
+}
